@@ -9,6 +9,7 @@
 //     console.log(`${num} It is Even Number`);
 // }
 
+
 // var num1=+prompt("Enter num1:");
 // var num2=+prompt("Enter num2:");
 // if(num1==num2)
@@ -93,13 +94,3 @@
 
 
 
-// var a = 10;
-// var b = 20;
-// var c = 30;
-// if (a > b && a > c) {
-//   console.log("a is big");
-// } else if (b > a && b > c) {
-//   console.log("b is big");
-// } else if (c > a && a > c) {
-//   console.log("C is big");
-// }
